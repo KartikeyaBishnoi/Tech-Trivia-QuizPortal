@@ -7,13 +7,12 @@ This competitive element motivates students to excel and reach for the top posit
 Tech Trivia is more than just a quiz platform; it's a comprehensive educational tool designed to promote engagement, foster competitiveness, and empower students to excel in their learning journeys.
 
 ## Screenshots
-1. ![Alt text](screenshots/Architecture.png?raw=true "")
-2. ![Alt text](screenshots/BackendArchitecture.png?raw=true "")
-3. ![Alt text](images/image1.jpg?raw=true "")
-4. ![Alt text](images/image1.jpg?raw=true "")
-5. ![Alt text](images/image1.jpg?raw=true "")
-6. ![Alt text](images/image1.jpg?raw=true "")
-7. ![Alt text](images/image1.jpg?raw=true "")
-8. ![Alt text](images/image1.jpg?raw=true "")
-9. ![Alt text](images/image1.jpg?raw=true "")
-10. ![Alt text](images/image1.jpg?raw=true "")
+
+1. ![Alt text](screenshots/techstack.png?raw=true "")
+2. ![Alt text](screenshots/Architecture.png?raw=true "")
+3. ![Alt text](screenshots/BackendArchitecture.png?raw=true "")
+4. ![Alt text](screenshots/FrontendArchitecture.png?raw=true "")
+5. ![Alt text](screenshots/login.png?raw=true "")
+6. ![Alt text](screenshots/quiz.png.jpg?raw=true "")
+7. ![Alt text](screenshots/Individualscore.png?raw=true "")
+8. ![Alt text](screenshots/GlobalScoreboard.png?raw=true "")
