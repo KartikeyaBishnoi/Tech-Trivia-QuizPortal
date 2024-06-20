@@ -8,7 +8,7 @@ Tech Trivia is more than just a quiz platform; it's a comprehensive educational 
 
 ## Screenshots
 1. ![Alt text](screenshots/Architecture.png?raw=true "")
-2. ![Alt text](screenshots/Backend_Architecture.png?raw=true "")
+2. ![Alt text](screenshots/BackendArchitecture.png?raw=true "")
 3. ![Alt text](images/image1.jpg?raw=true "")
 4. ![Alt text](images/image1.jpg?raw=true "")
 5. ![Alt text](images/image1.jpg?raw=true "")
