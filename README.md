@@ -5,3 +5,15 @@ The portal can host a wide range of thoughtfully curated IT quizzes. Upon comple
 This competitive element motivates students to excel and reach for the top positions. Moreover, the portal allows educators and institutions to customize quizzes to align with their specific curriculum, making it a versatile tool for both in-class and independent learning. We offer comprehensive support to ensure a smooth experience for both students and educators.
 
 Tech Trivia is more than just a quiz platform; it's a comprehensive educational tool designed to promote engagement, foster competitiveness, and empower students to excel in their learning journeys.
+
+## Screenshots
+1. ![Alt text](screenshots/Architecture.png?raw=true "")
+2. ![Alt text](screenshots/Backend_Architecture.png?raw=true "")
+3. ![Alt text](images/image1.jpg?raw=true "")
+4. ![Alt text](images/image1.jpg?raw=true "")
+5. ![Alt text](images/image1.jpg?raw=true "")
+6. ![Alt text](images/image1.jpg?raw=true "")
+7. ![Alt text](images/image1.jpg?raw=true "")
+8. ![Alt text](images/image1.jpg?raw=true "")
+9. ![Alt text](images/image1.jpg?raw=true "")
+10. ![Alt text](images/image1.jpg?raw=true "")
