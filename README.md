@@ -13,6 +13,6 @@ Tech Trivia is more than just a quiz platform; it's a comprehensive educational 
 3. ![Alt text](screenshots/BackendArchitecture.png?raw=true "")
 4. ![Alt text](screenshots/FrontendArchitecture.png?raw=true "")
 5. ![Alt text](screenshots/login.png?raw=true "")
-6. ![Alt text](screenshots/quiz.png.jpg?raw=true "")
+6. ![Alt text](screenshots/quiz.png?raw=true "")
 7. ![Alt text](screenshots/Individualscore.png?raw=true "")
 8. ![Alt text](screenshots/GlobalScoreboard.png?raw=true "")
